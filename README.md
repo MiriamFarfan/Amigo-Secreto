@@ -4,7 +4,7 @@ Este proyecto es una aplicación web simple que permite:
 
 - Agregar nombres de amigos a una lista.
 
-. Guardar dinámicamente esos nombres en pantalla.
+- Guardar dinámicamente esos nombres en pantalla.
 
 - Sortear aleatoriamente un Amigo Secreto entre los nombres registrados.
 
