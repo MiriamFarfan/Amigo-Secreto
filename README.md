@@ -10,7 +10,7 @@ Sortear aleatoriamente un Amigo Secreto entre los nombres registrados.
 
 Ideal para juegos rápidos y reuniones.
 
-Funcionalidades
+         Funcionalidades
 
 -Agregar amigos
 
