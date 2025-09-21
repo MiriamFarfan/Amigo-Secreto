@@ -10,22 +10,21 @@ Sortear aleatoriamente un Amigo Secreto entre los nombres registrados.
 
 Ideal para juegos rápidos y reuniones.
 
-🚀 Funcionalidades
+Funcionalidades
 
-Agregar amigos
+-Agregar amigos
 
-El usuario escribe un nombre en el campo de texto.
+-El usuario escribe un nombre en el campo de texto.
 
-Al presionar Enter o el botón correspondiente, se agrega a la lista.
+-Al presionar Enter o el botón correspondiente, se agrega a la lista.
 
-Se valida que el campo no esté vacío.
+-Se valida que el campo no esté vacío.
 
 Mostrar lista de amigos
 
-Los nombres se muestran automáticamente en pantalla en una lista ordenada.
+-Los nombres se muestran automáticamente en pantalla en una lista ordenada.
 
 Sortear Amigo Secreto
 
-Cuando hay al menos un nombre en la lista, se habilita el botón de Sortear.
+-Cuando hay al menos un nombre en la lista, se habilita el botón de Sortear.
 
-Al presionarlo, se selecciona un amigo al azar y se muestra en pantalla con estilo destacado.
