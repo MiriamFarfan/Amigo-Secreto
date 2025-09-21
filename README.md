@@ -10,19 +10,5 @@ Este proyecto es una aplicación web simple que permite:
 
 - Ideal para juegos rápidos y reuniones.
 
-         Funcionalidades
-
-- Agregar amigos.
-  
-- Al presionar Enter o el botón correspondiente, para agrega el nombre a la lista.
-
-- Se valida que el campo no esté vacío.
-
-Mostrar lista de amigos
-
-- Los nombres se muestran automáticamente en pantalla en una lista ordenada.
-
-Sortear Amigo Secreto
-
-- Cuando hay al menos un nombre en la lista, se habilita el botón de Sortear.
+        
 
